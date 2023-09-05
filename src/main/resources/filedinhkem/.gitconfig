@@ -1,0 +1,7 @@
+[user]
+	name = DangNgocMinhChau
+	email = chaudang1595@gmail.com
+[core]
+	editor = emacs
+[credential]
+	helper = manager-core
